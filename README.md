@@ -1,6 +1,7 @@
 # Pixel Art Maker Project
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/184687d5b0bc472bb8ddf1d91a3596c9)](https://app.codacy.com/app/aberdean/pixel-art-maker)
+[![Maintainability](https://api.codeclimate.com/v1/badges/e4cae802f3798076ce24/maintainability)](https://codeclimate.com/github/aberdean/pixel-art-maker/maintainability)
 
 ## Table of Contents
 
