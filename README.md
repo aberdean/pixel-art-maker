@@ -2,15 +2,18 @@
 
 ## Table of Contents
 
+* [Introduction](#introduction)
+
 * [Instructions](#instructions)
-* [Contributing](#contributing)
+
+## Introduction
+
+This is a project I built as an exercise during the Google Scholarship Front End Web Developer Nanodegree. The starter code is taken from https://github.com/udacity/project-pixel-art-maker-starter
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+Coming soon!
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+[//]: # (TODO: Add the link to the working project in the line below and delete the line above)
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+[//]: # (TODO: Uncomment the following: Go to LINK HERE, pick a grid size, optionally pick a color, and start drawing!)
