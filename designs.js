@@ -48,13 +48,13 @@ function makeGrid() {
         for (let j = 1; j <= width; j++) {
             const td = document.createElement("td");
 
-			tr.appendChild(td);
-		}
-	}
+            tr.appendChild(td);
+        }
+    }
 
-	table.addEventListener("click", function(event) {
-		event.target.closest("td").style.backgroundColor = color;
-	});
+    table.addEventListener("click", function(event) {
+        event.target.closest("td").style.backgroundColor = color;
+    });
 
 }
 
@@ -63,7 +63,7 @@ function makeGrid() {
  */
 function clearGrid() {
 
-	while(table.firstChild) {
-		table.removeChild(table.firstChild);
-	}
+    while(table.firstChild) {
+        table.removeChild(table.firstChild);
+    }
 }
