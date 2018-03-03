@@ -27,11 +27,11 @@ const table = document.getElementById("pixel-canvas");
 // When size is submitted by the user, clear the previous grid and
 // build the new grid.
 document.getElementById("size-picker")
-        .addEventListener("submit", function(event) {
-            event.preventDefault();
-            clearGrid();
-            makeGrid();
-        });
+    .addEventListener("submit", function(event) {
+        event.preventDefault();
+        clearGrid();
+        makeGrid();
+    });
 
 /**
  * Given a width and a height, builds a grid of those dimensions.
