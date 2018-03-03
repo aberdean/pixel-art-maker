@@ -17,10 +17,5 @@ Pixel Art Maker Starter](https://github.com/udacity/project-pixel-art-maker-star
 
 ## Instructions
 
-Coming soon!
-
-[//]: # (TODO: Add the link to the working project in the line below and
-delete the line above)
-
-[//]: # (TODO: Uncomment the following: Go to LINK HERE, pick a grid size,
-optionally pick a color, and start drawing!)
+Go to [Pixel Art Maker](https://aberdean.github.io/pixel-art-maker/), pick a
+grid size, optionally pick a color, and start drawing! Have fun!
